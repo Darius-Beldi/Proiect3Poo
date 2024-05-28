@@ -1,0 +1,9 @@
+1,MagnesiumB6,25.99,120,Mg,B6
+1,VitaminaC,28.99,2,C
+1,Femosun,76.49,150,Fe,C,B3,E,B5,B6,B2,B1,B7,Se,B12
+2,Nurofen,39.45,230,Ibuprofen
+2,Biofen,20.31,390,Ibuprofen
+2,Diclac,38.41,130,Diclofenac_Sodic
+3,Imesol,25.99,110,Etoricoxib,23QW123M
+3,Ketonal,12.45,320,Ketoprofen,EK89WQE
+3,Aflomil,17.89,820,Aceclofen,M312OS
